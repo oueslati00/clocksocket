@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="clock:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/clock_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="clock/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="clock" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
